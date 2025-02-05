@@ -1,6 +1,6 @@
 # **한 입 크기로 잘라먹는 Next.js 정리**  
 
-이 저장소는 **"[한 입 크기로 잘라먹는 Next.js](https://www.inflearn.com/course/%ED%95%9C%EC%9E%85-%ED%81%AC%EA%B8%B0-nextjs)"** 강의를 듣고 간단히 정리한 공간입니다.  
+이 저장소는 **"[한 입 크기로 잘라먹는 Next.js](https://www.inflearn.com/course/%ED%95%9C%EC%9E%85-%ED%81%AC%EA%B8%B0-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)"** 강의를 듣고 간단히 정리한 공간입니다.  
 
 ## 🔗 **노션 페이지:**  
 [한 입 크기로 잘라먹는 Next.js](https://www.notion.so/19125ebebb2c802d9fcaf0bd11eeeb76?v=19125ebebb2c8115a650000c75f2aee9&pvs=4)  
