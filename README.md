@@ -3,7 +3,10 @@
 이 저장소는 **"[한 입 크기로 잘라먹는 Next.js](https://www.inflearn.com/course/%ED%95%9C%EC%9E%85-%ED%81%AC%EA%B8%B0-nextjs)"** 강의를 듣고 간단히 정리한 공간입니다.  
 
 ## 🔗 **노션 페이지:**  
-[한 입 크기로 잘라먹는 Next.js](https://www.notion.so/19125ebebb2c802d9fcaf0bd11eeeb76?v=19125ebebb2c8115a650000c75f2aee9&pvs=4)  
+[한 입 크기로 잘라먹는 Next.js](https://www.notion.so/19125ebebb2c802d9fcaf0bd11eeeb76?v=19125ebebb2c8115a650000c75f2aee9&pvs=4)
+
+## 🔗 **배포 페이지:**  
+[한입 북스](https://www.notion.so/19125ebebb2c802d9fcaf0bd11eeeb76?v=19125ebebb2c8115a650000c75f2aee9&pvs=4](https://onebite-books-dkeo51ujd-chasungwooks-projects.vercel.app/)
 
 ## ✨ **주요 학습 내용**  
 
@@ -14,7 +17,6 @@
 - SEO 최적화 및 메타 태그 설정  
 - 이미지 최적화 (`next/image`)  
 - 스타일링 (CSS, Tailwind, Styled Components)  
-- Next.js에서의 상태 관리 (React Context, Redux, SWR 등)  
 
 ## 🚀 **목표**  
 
@@ -24,7 +26,6 @@
 
 ## 🛠️ **사용 기술**  
 
-- **Next.js** - v14.x  
-- **React** - v18.x 
-- **Tailwind CSS / Styled Components** - 스타일링  
+- **Next.js** - v15.1.6 
+- **React** - v19.0.0 
 - **Notion** - 정리 자료 작성 및 공유  
