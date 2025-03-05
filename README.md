@@ -6,7 +6,7 @@
 [한 입 크기로 잘라먹는 Next.js](https://www.notion.so/19125ebebb2c802d9fcaf0bd11eeeb76?v=19125ebebb2c8115a650000c75f2aee9&pvs=4)
 
 ## 🔗 **배포 페이지:**  
-[한입 북스](https://www.notion.so/19125ebebb2c802d9fcaf0bd11eeeb76?v=19125ebebb2c8115a650000c75f2aee9&pvs=4](https://onebite-books-dkeo51ujd-chasungwooks-projects.vercel.app/)
+[한입 북스](https://onebite-books-dkeo51ujd-chasungwooks-projects.vercel.app/)
 
 ## ✨ **주요 학습 내용**  
 
